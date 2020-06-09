@@ -1,0 +1,19 @@
+##### 2D CONFIG #####
+
+#2D or 3D
+2D
+
+#the value for k
+.1
+
+#number of timesteps to run
+10
+
+#width and height of grid
+5,5
+
+#default starting temp
+0
+
+#blocks
+2,2,1,1,200
